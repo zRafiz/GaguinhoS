@@ -1,0 +1,77 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(BackgroundG.jpg) center;
+    
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+
+    }
+
+.logo, .titulo, .subtitulo {
+    text-align: center;
+    margin: 0;
+    }
+.Logo_Gaguinhos {
+    border-radius: 50%;
+}
+main {
+    margin-top: 50px;
+}
+.linha1 {
+    height: 2px;
+    background-color: rgb(0, 0, 0)
+}
+.players_linha1 {
+    display: flex;
+    margin: 30px
+}
+
+.player1, .player2, .player3 {
+    flex: 1;
+    margin: 10px;
+}
+.players_linha2 {
+    display: flex;
+    margin: 30px
+}
+
+.player4, .player5, .player6 {
+    flex: 1;
+    margin: 10px;
+}
+.player1 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.player2 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.player3 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.player4 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.player5 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.player6 table{
+    background-color:chocolate;
+    border-radius: 10px;
+    padding: 10px;
+}
+.desc_gag{
+    text-align: justify;
+    font-family: 'Nosifer' cursive;
+}
